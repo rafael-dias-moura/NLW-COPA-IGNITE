@@ -47,6 +47,10 @@ Contact me by email or through my Linkedin.
 
 This project under MIT license. See [LICENSE](LICENSE.md) for more details.
 
+---
 
+<h5 align="center">
+  &copy;2022 - <a href="https://github.com/rafael-dias-moura">Rafael Dias</a>
+</h5>
 
  
