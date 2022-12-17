@@ -1,6 +1,6 @@
-## 🚀 Como executar
+## 🚀 Hou to run
 
-**Para que esse projeto funcione corretamente, é preciso estar com o servidor rodando.**
+**You need run server**
 
-- Instale os pacotes com `npm install`.
-- Execute `npm run dev` para iniciar o cliente web.
+- Install the packages with `npm install`.
+- Execute `npm run dev` to start web client.

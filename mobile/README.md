@@ -1,9 +1,9 @@
-## 🚀 Como executar
+## 🚀 How to run
 
-**Para que esse projeto funcione corretamente, é preciso estar com o servidor rodando.**
+**You need run server**
 
-- Instale os pacotes com `npm install`.
-- Criar o app no google para poder ter acesso ao OAuth (<https://docs.expo.dev/guides/authentication/#google>)
-- Faça uma copia do arquivo `.env.example` para `.env` e preencha corretamente.
-- Alterar o endereço do arquivo `src/services/api.ts` colocando o IP da máquina.
-- Execute `npm run dev` para iniciar o servidor do Expo.
+- Install the packages with `npm install`.
+- Criate app in googleto access OAuth (<https://docs.expo.dev/guides/authentication/#google>)
+- Make a copy of the file `.env.example` para `.env` and fill in correctly.
+- Change the file address `src/services/api.ts` put the machine IP.
+- Execute `npm run dev` to run Expo server.
